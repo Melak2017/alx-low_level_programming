@@ -1,1 +1,1 @@
-a dir that shows how to write loops and function in c
+introductory dir for loops and function in c
